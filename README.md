@@ -42,7 +42,7 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/react-movie-database.git
+git clone [https://github.com/himanshinagori/react-movie-database.git]
 cd react-movie-database
 ```
 
